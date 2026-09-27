@@ -1,4 +1,5 @@
 # STRUCTURED-PROGRAMMING-PRACTICE
+## Exercise 1
 This a repository that contains structured programming practice exercise 
 
 source:Deitel & Deitel , C How to program, 9th Edition , Chapter 2, Exercise 2.9a, page 132.
