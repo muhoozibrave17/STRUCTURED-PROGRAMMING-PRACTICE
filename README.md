@@ -33,6 +33,12 @@ What the program does :Calculates and prints the sum of all multiples of 7 from 
 Concepts used : for loop, accumulator variable , arithmetic operators .
 How it works :t starts at k=7 and adds 7 each time stopping once k exceeds 100
 
+## Exercise 6- loop_output
+source : Deitel & Deitel, C How to program ,9th Edition , Chapter 3, exercise 3.19 ,
+what the program does: Repeatedly reads a loan's principal ,interest rate and term ,then calculates and displays the simple interest ,stoping whwn the user enters -1.
+Concepts used : while loop, scanf , arithmet operators , 
+How it works :using the formular used, the princpal is  read once before the loop .While it is not -1 ,the program reads the rate and days,calculates and prints the interest ,then reads the next principal.
+
 
 
 
