@@ -13,3 +13,9 @@ What the program does ,; takes two numbers from the user, and computes their sum
 Concepts used: printf,escape sequences,variables,scanf, and the arithmetic operators
 How it works;
 Prompts the user for the integers inputs using scanf(,calculates and prints the variables out
+
+## Exercise 3
+source: Deitel & Deitel, C How to program,9th edition, Chapter 2, Exercise 2.22, What the program does :
+Reads an integer from the user and determines whether it is odd or even , using the remainder operator.
+The concepts used : printf, escape sequences ,if, else,,%,
+How it works: The program divides the number by 2 using %,which gives the remainder of that division .since any multiple of 2 leaves a remainder of 0 , the program checks number %2 == 0-if true , the number is even , otherwise it is odd 
