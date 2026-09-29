@@ -39,6 +39,12 @@ what the program does: Repeatedly reads a loan's principal ,interest rate and te
 Concepts used : while loop, scanf , arithmet operators , 
 How it works :using the formular used, the princpal is  read once before the loop .While it is not -1 ,the program reads the rate and days,calculates and prints the interest ,then reads the next principal.
 
+## Exercise 7- loop_decision.
+source : Deitel & Deitel, C How to program , 9th Edition , chapter4 ,Exercise 4.17
+what the program does : Analyses the credit status of the three customers after the company cutting every customer credit limit in half .for each customer , it reads the account number , the credit limit before the recession and the current balance , then calculates and prints the new credit limit and then reports whether the balance exceeds 
+concepts used :for loop , if else ,arithmetic operators , scanf , printf 
+How it works :the for loop runs exactly 3 times ,the program read the three inputs and calculates the new limit ,the if else then compares the balance against current limit , 
+
 
 
 
