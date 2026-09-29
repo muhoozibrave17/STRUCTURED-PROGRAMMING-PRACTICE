@@ -30,7 +30,7 @@ concepts used : 'for loop', 'integer variable', 'printf'
 source : Deitel & Deitel, C How to program ,9th Edition ,Chapter 4 ,exercise 4.11
 What the program does :Calculates and prints the sum of all multiples of 7 from 1 to 100 ,printing each multiple as it is found 
 Concepts used : for loop, accumulator variable , arithmetic operators .
-How it works :t starts at i=7 and adds 7 each time stopping once it exceeds 100
+How it works :t starts at k=7 and adds 7 each time stopping once k exceeds 100
 
 
 
