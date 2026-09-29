@@ -26,6 +26,12 @@ what the program does :Displays all  odd integers from 1 to 13
 How it works : the loop starts at 'n=1 and continues while n<=13'adding a 2 to every n 
 concepts used : 'for loop', 'integer variable', 'printf'
 
+## Exercise 5- Loop_Calculation
+source : Deitel & Deitel, C How to program ,9th Edition ,Chapter 4 ,exercise 4.11
+What the program does :Calculates and prints the sum of all multiples of 7 from 1 to 100 ,printing each multiple as it is found 
+Concepts used : for loop, accumulator variable , arithmetic operators .
+How it works :t starts at i=7 and adds 7 each time stopping once it exceeds 100
+
 
 
 
