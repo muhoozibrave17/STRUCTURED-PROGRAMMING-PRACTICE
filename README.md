@@ -45,6 +45,12 @@ what the program does : Analyses the credit status of the three customers after 
 concepts used :for loop , if else ,arithmetic operators , scanf , printf 
 How it works :the for loop runs exactly 3 times ,the program read the three inputs and calculates the new limit ,the if else then compares the balance against current limit , 
 
+## Exercise 8- interactive_program
 
+Source: Deitel & Deitel, C How to Program, Chapter 3, Exercise 3.18 (Sales-Commission Calculator).
+
+What the program does: A chemical company pays its salespeople $200 per week plus 9% of their gross weekly sales. The user repeatedly enters one salesperson's gross sales; the program calculates and displays that salesperson's earnings, and stops when -1 is entered.
+Concepts used: sentinel-controlled while loop, scanf / printf, floating-point arithmetic, %.2f output formatting.
+How it works: A priming read gets the first sales figure. While it isn't -1, the program computes earnings = 200.00 + 0.09 * sales, prints it to two decimal places, and reads the next sales figure at the bottom of the loop. When -1 is entered the loop ends and the program exits. For example, $5000.00 in sales gives $650.00, and $1234.56 gives $311.11.
 
 
